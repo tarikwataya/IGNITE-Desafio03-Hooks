@@ -1,5 +1,5 @@
 <h1 align="center">
-  Restaurant
+  Rocket Shoes
 </h1>
 
 ## Developer
